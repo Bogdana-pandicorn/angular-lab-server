@@ -21,4 +21,4 @@ server.use('/api/shopping', shoppingController);
 server.use('/api/order', orderController);
 server.use('/api/admin', adminController);
 
-server.listen(3000, () => console.log("Listening on http://localhost:3000"));
+server.listen(process.env.PORT || 3000, () => console.log("Listening on http://localhost:" + process.env.PORT));
