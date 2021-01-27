@@ -1,0 +1,10 @@
+Online Store
+--------------
+Tue Jan 26 2021 16:35:39 GMT+0200 (за східноєвропейським стандартним часом)
+--------------
+Name |   Amount |   Price | 
+ ------------------
+White wedding     1            465
+,Hair ornament     2            100
+--------------
+Total Price : 565 $

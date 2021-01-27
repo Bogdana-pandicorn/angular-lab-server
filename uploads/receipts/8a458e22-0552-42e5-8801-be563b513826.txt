@@ -1,0 +1,11 @@
+Online Store
+--------------
+Tue Jan 26 2021 16:18:35 GMT+0200 (за східноєвропейським стандартним часом)
+--------------
+Name |   Amount |   Price | 
+ ------------------
+Dress3     1            11
+,Hair ornament     2            100
+,Wedding crown     1            199
+--------------
+Total Price : 310 $
